@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "versionCode": 2,
+  "version": "1.0.2",
+  "versionCode": 3,
   "url": "https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.1/ZhegeTools-v1.0.1.apk",
   "urlBackup": "https://ghfast.top/https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.1/ZhegeTools-v1.0.1.apk",
-  "notes": "本次更新：\n1. 新增自动更新（检查 GitHub 最新版，强制更新弹窗 + 下载后自动安装）\n2. 界面改为 紫/粉/蓝 配色\n3. AI 集合恢复显示接口地址\n4. 快手/抖音解析页不再回显解析服务地址\n5. 2 元 TG 号页顶部新增页面地址（可复制）",
+  "notes": "【临时测试】用于验证强制更新链路，测完会还原为 1.0.1",
   "force": true,
   "size": 13401045
 }
