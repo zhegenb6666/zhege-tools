@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
-  "versionCode": 4,
-  "url": "https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.3/ZhegeTools-v1.0.3.apk",
-  "urlBackup": "https://ghfast.top/https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.3/ZhegeTools-v1.0.3.apk",
-  "notes": "全新视觉：冷银汞镜（Liquid Mercury）\n\n1. 玻璃质感改为**预渲染贴图**，不再实时模糊 —— 更省电、低端机也不掉帧，且观感更接近真实材质\n2. 面板带完整拟物高光：斜面边缘反光、左上镜面点、内阴影、细噪点\n3. 图标底座改为**凹陷井**（上沿暗、下沿亮），一眼看出是压进去的\n4. 界面主题改为石墨黑 + 冷银 + 唯一琥珀金强调色，去掉紫粉蓝\n5. 背景换成丝绸柔光贴图，全屏统一受光方向\n\n素材基于开源项目 nikdelvin/liquid-glass（MIT）的丝绸/铬金属贴图二次加工。",
+  "version": "1.0.4",
+  "versionCode": 5,
+  "url": "https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.4/ZhegeTools-v1.0.4.apk",
+  "urlBackup": "https://ghfast.top/https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.4/ZhegeTools-v1.0.4.apk",
+  "notes": "新增「内置 ADB」\n\n1. 无线调试配对：mDNS 自动发现配对端口，填 6 位配对码即可，流程与 Stellar/Shizuku 一致\n2. 配对后直接在应用内执行 shell 命令（pm / appops / dumpsys），不需要额外装 Shizuku 或 Stellar\n3. 应用权限管理：自动筛出「接了 Shizuku 的应用」，可查看权限清单并直接改权限\n\n界面：亮色 + 粉色主题，功能卡片填充青绿色；功能图标各自独立配色\n修复：面板上两条交叉暗线（九宫格切片重叠 1px 导致半透明贴图被重复绘制）",
   "force": true,
-  "size": 13544686
+  "size": 16871678
 }
