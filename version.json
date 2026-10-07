@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
-  "versionCode": 3,
-  "url": "https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.2/ZhegeTools-v1.0.2.apk",
-  "urlBackup": "https://ghfast.top/https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.2/ZhegeTools-v1.0.2.apk",
-  "notes": "修复：\n1. 版本检查改用 GitHub API 作为权威源，不再被 CDN 陈旧缓存误导（之前会误报有新版本、点更新却装不上）\n2. 下载后校验 APK 真实版本，若没比当前新则拒绝安装并给出出口，杜绝死循环\n3. 界面改为 紫/粉/蓝 配色\n4. AI 集合恢复显示接口地址；快手/抖音解析页不再回显解析服务地址\n5. 2 元 TG 号页顶部新增页面地址（可复制）",
+  "version": "1.0.3",
+  "versionCode": 4,
+  "url": "https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.3/ZhegeTools-v1.0.3.apk",
+  "urlBackup": "https://ghfast.top/https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.3/ZhegeTools-v1.0.3.apk",
+  "notes": "全新视觉：冷银汞镜（Liquid Mercury）\n\n1. 玻璃质感改为**预渲染贴图**，不再实时模糊 —— 更省电、低端机也不掉帧，且观感更接近真实材质\n2. 面板带完整拟物高光：斜面边缘反光、左上镜面点、内阴影、细噪点\n3. 图标底座改为**凹陷井**（上沿暗、下沿亮），一眼看出是压进去的\n4. 界面主题改为石墨黑 + 冷银 + 唯一琥珀金强调色，去掉紫粉蓝\n5. 背景换成丝绸柔光贴图，全屏统一受光方向\n\n素材基于开源项目 nikdelvin/liquid-glass（MIT）的丝绸/铬金属贴图二次加工。",
   "force": true,
-  "size": 13401045
+  "size": 13544686
 }
