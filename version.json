@@ -1,9 +1,9 @@
 {
-  "version": "1.0.4",
-  "versionCode": 5,
-  "url": "https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.4/ZhegeTools-v1.0.4.apk",
-  "urlBackup": "https://ghfast.top/https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.4/ZhegeTools-v1.0.4.apk",
-  "notes": "新增「内置 ADB」\n\n1. 无线调试配对：mDNS 自动发现配对端口，填 6 位配对码即可，流程与 Stellar/Shizuku 一致\n2. 配对后直接在应用内执行 shell 命令（pm / appops / dumpsys），不需要额外装 Shizuku 或 Stellar\n3. 应用权限管理：自动筛出「接了 Shizuku 的应用」，可查看权限清单并直接改权限\n\n界面：亮色 + 粉色主题，功能卡片填充青绿色；功能图标各自独立配色\n修复：面板上两条交叉暗线（九宫格切片重叠 1px 导致半透明贴图被重复绘制）",
-  "force": true,
-  "size": 16871678
+  "version": "1.0.5",
+  "versionCode": 6,
+  "url": "https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.5/ZhegeTools-1.0.5.apk",
+  "urlBackup": "https://ghfast.top/https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.5/ZhegeTools-1.0.5.apk",
+  "notes": "v1.0.5：全新视觉（白玻璃+紫粉蓝）、防录音/权限警示/快捷录音三大功能、积分与签到系统、内置 ADB 一键授权、全链路加密加固",
+  "force": false,
+  "size": 6000000
 }
