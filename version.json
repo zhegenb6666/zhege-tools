@@ -1,9 +1,9 @@
 {
   "version": "1.0.6",
   "versionCode": 7,
-  "url": "https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.6/ZhegeTools-1.0.5.apk",
-  "urlBackup": "https://ghfast.top/https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.6/ZhegeTools-1.0.5.apk",
-  "notes": "v1.0.5：全新视觉（白玻璃+紫粉蓝）、防录音/权限警示/快捷录音三大功能、积分与签到系统、内置 ADB 一键授权、全链路加密加固",
+  "url": "https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.6/ZhegeTools-v1.0.6.apk",
+  "urlBackup": "https://ghfast.top/https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.6/ZhegeTools-v1.0.6.apk",
+  "notes": "v1.0.6：安全与体验深度重构。ECDH 密钥协商 + DEX 层加固（反调试/Frida 检测/完整性校验）+ 全量混淆；防录音引擎重写（单频超声 + 回环自检实测数据）；界面与后台同源设计系统全面换装；灵动岛位置修复。",
   "force": false,
-  "size": 6000000
+  "size": 8722787
 }
