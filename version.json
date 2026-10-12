@@ -1,8 +1,8 @@
 {
-  "version": "1.0.5",
-  "versionCode": 6,
-  "url": "https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.5/ZhegeTools-1.0.5.apk",
-  "urlBackup": "https://ghfast.top/https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.5/ZhegeTools-1.0.5.apk",
+  "version": "1.0.6",
+  "versionCode": 7,
+  "url": "https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.6/ZhegeTools-1.0.5.apk",
+  "urlBackup": "https://ghfast.top/https://github.com/zhegenb6666/zhege-tools/releases/download/v1.0.6/ZhegeTools-1.0.5.apk",
   "notes": "v1.0.5：全新视觉（白玻璃+紫粉蓝）、防录音/权限警示/快捷录音三大功能、积分与签到系统、内置 ADB 一键授权、全链路加密加固",
   "force": false,
   "size": 6000000
